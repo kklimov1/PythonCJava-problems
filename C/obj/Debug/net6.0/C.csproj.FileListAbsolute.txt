@@ -1,0 +1,15 @@
+/Users/kirillklimov/Training/PythonCJava-problems/C/bin/Debug/net6.0/C
+/Users/kirillklimov/Training/PythonCJava-problems/C/bin/Debug/net6.0/C.deps.json
+/Users/kirillklimov/Training/PythonCJava-problems/C/bin/Debug/net6.0/C.runtimeconfig.json
+/Users/kirillklimov/Training/PythonCJava-problems/C/bin/Debug/net6.0/C.dll
+/Users/kirillklimov/Training/PythonCJava-problems/C/bin/Debug/net6.0/ref/C.dll
+/Users/kirillklimov/Training/PythonCJava-problems/C/bin/Debug/net6.0/C.pdb
+/Users/kirillklimov/Training/PythonCJava-problems/C/obj/Debug/net6.0/C.csproj.AssemblyReference.cache
+/Users/kirillklimov/Training/PythonCJava-problems/C/obj/Debug/net6.0/C.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillklimov/Training/PythonCJava-problems/C/obj/Debug/net6.0/C.AssemblyInfoInputs.cache
+/Users/kirillklimov/Training/PythonCJava-problems/C/obj/Debug/net6.0/C.AssemblyInfo.cs
+/Users/kirillklimov/Training/PythonCJava-problems/C/obj/Debug/net6.0/C.csproj.CoreCompileInputs.cache
+/Users/kirillklimov/Training/PythonCJava-problems/C/obj/Debug/net6.0/C.dll
+/Users/kirillklimov/Training/PythonCJava-problems/C/obj/Debug/net6.0/ref/C.dll
+/Users/kirillklimov/Training/PythonCJava-problems/C/obj/Debug/net6.0/C.pdb
+/Users/kirillklimov/Training/PythonCJava-problems/C/obj/Debug/net6.0/C.genruntimeconfig.cache

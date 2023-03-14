@@ -1,0 +1,15 @@
+class Adder
+{
+    public static int Sum(int n, int i)
+    {
+        return n+i;
+    }
+}
+
+class Program
+{
+    static void Main(string[] args){
+        value = Adder.Sum(4,6);
+        Console.WriteLine(value);
+    }
+}
